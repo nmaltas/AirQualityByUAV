@@ -9,7 +9,7 @@ TO OPERATE THE SYSTEM AS OF 7/11/2020:
 
 For data streaming:
 - run GetData.py to start fetching data to the laptop. Fetched data will be saved in the Data.txt file.
-- After data fetching has been confirmed run AlphasenseStream.py, OPCStream.py, RHTStream.py and ParentStream.py to plot trasfered data from Alphasense, OPCN, RHT or all of them respectively.
+- After data fetching has been confirmed run AlphasenseStream.py, OPCStream.py, RHTStream.py and ParentStream.py to plot trasferred data from Alphasense, OPCN, RHT or all of them respectively.
 
 ATTENTION! The maximum distance over which the streaming feature can work reliably has not yet been confirmed.
 
