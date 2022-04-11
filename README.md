@@ -167,7 +167,7 @@ To better protect the flow of the script from crashes the whole get_data functio
 of -5 is determined to be the system's default error code in case of failure, along with an appropriate error message for each case.
 
 2/2/2020
-RunSensorSystemnow can operate and read OPCN sensors.
+RunSensorSystem now can operate and read OPCN sensors.
 
 1/29/2020
 Complete overhaul of the RunSensorSystem.py file to store data separately for offline and remote access.
