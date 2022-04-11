@@ -3,7 +3,7 @@ Code used for a project involving obtaining air quality measurements by UAV
 
 TO OPERATE THE SYSTEM AS OF 7/11/2020:
 
-- Ensure that both antennas on Raspberry Pi and the laptop are connected with ethernet cable and powered up with 12-24V. Wait for the blue bars to turn on and indicate connection success.
+- Ensure that both antennas on Raspberry Pi and the laptop are connected with an ethernet cable and powered up with 12-24V. Wait for the blue bars to turn on and indicate connection success.
 - Run cmd and follow instructions in ConnectToRPi.txt for SSH if needed.
 - After SSH has been succesful, the RPi can be controlled remotely.
 
